@@ -1,0 +1,11 @@
+{
+  "item.firstmod.ruby": "Ruby",
+  "item.firstmod.raw_ruby": "Raw Ruby",
+
+  "block.firstmod.ruby_block": "Block of Ruby",
+  "block.firstmod.raw_ruby_block": "Block of Raw Ruby",
+  "block.firstmod.ruby_ore": "Ruby Ore",
+  "block.firstmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "creativetab.first_mod_tab": "First Mod"
+}
