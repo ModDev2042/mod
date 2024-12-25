@@ -1,3 +1,3 @@
 # Rubies and More
-<p align="center"><img src="https://i.postimg.cc/kMZZfphQ/ruby.png" alt="Logo" width="200"></p>
-Rubies and More is a project dedicated to exploring the fascinating world of gems, jewels, and more. This repository contains resources, tools, and documentation to learn, create, and share knowledge about various gemstones and their applications. Whether you're a collector, jeweler, or enthusiast, there's something here for everyone!
+<p align="center"><img src="https://i.postimg.cc/c4260Dpm/logo.png" alt="Logo" width="200"></p>
+Rubies and More is a minecraft mod that adds rubies (as told in the title) and other ores and gems. Download from curseforge at [link].
