@@ -4,4 +4,4 @@ Rubies and More is a minecraft mod that adds rubies (as told in the title) and o
 
 You may use this mod in modpacks, but please notify me if you do. You can do this by opening a discussion in this repo.
 <br><br>[Wiki](https://github.com/ModDev2042/mod/wiki/Home)
-<br>Please do not steal the contents of this mod and release them under your own name.
+<br>Please do not steal the contents of this mod and release unless it is in a modpack and you have given me credit.
